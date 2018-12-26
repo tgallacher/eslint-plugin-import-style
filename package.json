@@ -1,0 +1,30 @@
+{
+  "name": "eslint-plugin-import-style",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha ./lib/**/*.test.js"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Tom Gallacher",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.11.0",
+    "generator-eslint": "^1.2.0",
+    "mocha": "^5.2.0",
+    "yo": "^2.0.5"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "app-root-path": "^2.1.0",
+    "requireindex": "^1.2.0"
+  }
+}
