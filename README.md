@@ -1,6 +1,8 @@
-# eslint-plugin-test-plugin-id
+# eslint-plugin-import-style
 
-Plugin description
+This is a test bed for learning more about ESLint under the hood. 
+
+To get this functionality see: [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import/blob/HEAD/docs/rules/order.md).
 
 ## Installation
 
